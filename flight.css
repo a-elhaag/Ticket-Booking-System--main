@@ -6,7 +6,7 @@ body
     background-repeat: no-repeat;
     background-size: cover;
    
-     color: magenta;
+     color: rgb(79, 119, 187);
      font-family: Arial, Helvetica, sans-serif;
      margin: 0;
      padding: 0;
@@ -24,7 +24,7 @@ body
     position:relative;
     right:-900px;
    /* font-family:Georgia, 'Times New Roman', Times, serif; */
-   background-image: linear-gradient(to right,Yellow, magenta, cyan,black);
+   background-image: linear-gradient(to right,rgb(76, 159, 157), rgb(29, 55, 131), cyan,black);
    -webkit-background-clip: text;
    -moz-background-clip: text;
    background-clip: text;
@@ -39,7 +39,7 @@ body
     font-family:Georgia, 'Times New Roman', Times, serif;
     font: size 1455px;
   /* color:linear-gradient(green, blue); */
-    background-image: linear-gradient(to right, yellow,magenta, orange, blue, yellow, aqua, red);
+    background-image: linear-gradient(to right, rgb(49, 56, 111),rgb(50, 100, 187), rgb(65, 148, 206), blue, rgb(17, 72, 111), aqua, red);
     -webkit-background-clip: text;
     -moz-background-clip: text;
     background-clip: text;
